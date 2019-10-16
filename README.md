@@ -5,4 +5,3 @@
 Run locally by running 'npm start'.
 
 :metal: Made with React :honeybee:
-# tictactoe
